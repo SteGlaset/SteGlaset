@@ -2,11 +2,12 @@
 **My name is Daniil Khlybov. I'm `${JAVASCRIPT_FRAMEWORK.join(', ')}` Developer 🖥️**
 
 <sub>_*JAVASCRIPT_FRAMEWORK = ['React', 'Vue']_</sub>
-### If you want to see my repositories here are some of the best *(from oldest to newest)*:
-- [RS School Shelter](https://github.com/SteGlaset/shelter)
-- [RS School Project Managment System](https://github.com/emp74ark/pma)
-- [Blind Writing App](https://github.com/SteGlaset/blind-writing)
+### If you want to see my repositories here are some of the best *(from newest to oldest)*:
+- [Nuxt Modals](https://github.com/SteGlaset/nuxt-modals)
 - [SpaceX API App](https://github.com/SteGlaset/spacex)
+- [Blind Writing App](https://github.com/SteGlaset/blind-writing)
+- [RS School Project Managment System](https://github.com/emp74ark/pma)
+- [RS School Shelter](https://github.com/SteGlaset/shelter)
 
 
 <!--
